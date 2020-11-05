@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<H2>Who am I? </H2>
 Long time in the field of software - from Mainframes to Mobile Apps, and things in between
+
+Currently, learning Computer Vision, Machine Learning, and Python -- not necessarily in that order
 
