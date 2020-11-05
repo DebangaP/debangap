@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <H2>Who am I? </H2>
-<li> ...startup guy
-<li>21 years in the field of software - from Mainframes to Mobile Apps, and all things in between
+<li> Co-founder and CTO at a stealth-mode startup 
+<li> 21 years in the field of software - from Mainframes to Mobile Apps, and all things in between
 
-<li>Currently, learning Computer Vision, Machine Learning, and Python -- not necessarily in that order
+<li> Currently, learning Computer Vision, Machine Learning, and Python -- not necessarily in that order
 
 <H3> Areas of interest</H3>
 <li> Technology
