@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 
 <H3> Areas of interest</H3>
 <li> Technology
+  <li> Software
+    <li> Insurance
+      <li> Financial Markets
   
