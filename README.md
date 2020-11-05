@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Long time in the field of software - from Mainframes to Mobile Apps, and things in between
+
