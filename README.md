@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <li> Co-founder and CTO at a stealth-mode startup 
 <li> 21 years in the field of software - from Mainframes to Mobile Apps, and all things in between
 <li> Currently learning Computer Vision, Machine Learning, and Python -- not necessarily in that order
-  <li> Starting Algo trading
+<li> Starting Algo trading
 
 <H3> Areas of interest</H3>
 <li> Technology
   <li> Software
     <li> Insurance
       <li> Financial Markets
-        <li> Quantum Computing
+
   
