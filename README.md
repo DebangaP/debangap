@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <H2>Who am I? </H2>
-<li> Co-founder and CTO at a stealth-mode startup 
-<li> 21 years in the field of software - from Mainframes to Mobile Apps, and all things in between
+<li> Head of Engineering at a Fintech
+<li> 24+ years in the field of software - from Mainframes to Mobile Apps, and all things in between
 <li> Currently learning Computer Vision, Machine Learning, and Python -- not necessarily in that order
 <li> Starting Algo trading
 
