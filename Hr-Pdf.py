@@ -1,3 +1,9 @@
+!pip install -q llama-index
+!pip install llama-cpp-python
+!pip install transformers
+!pip install accelerate
+!pip install pinecone-client
+
 
 from llama_index.vector_stores import PineconeVectorStore
 from llama_index import StorageContext, VectorStoreIndex, SimpleDirectoryReader, download_loader
