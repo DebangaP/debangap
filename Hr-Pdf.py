@@ -24,7 +24,7 @@ documents = SimpleDirectoryReader("PDFs").load_data
 documents = loader.load_data(file=Path('./PDFs/HR_Policy.pdf'))
 
 # init pinecone
-pinecone.init(api_key="c7896285-b639-4197-acd4-bc3d45e90126", environment="gcp-starter")
+pinecone.init(api_key="6", environment="gcp-starter")
 pinecone.create_index("hr-index", dimension=384, metric="euclidean", pod_type="p1")
 
 # construct vector store and customize storage context
